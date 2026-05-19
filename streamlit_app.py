@@ -1,10 +1,10 @@
 import streamlit as st
 
-st.markdown("*Streamlit* is **really** ***cool***.")
+st.markdown("*JAWIR* is **brigez** ***tiriss***.")
 st.markdown('''
-    :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
-    :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
-st.markdown("Here's a bouquet &mdash;\
+    :red[JAWIR] :orange[is] :blue[persib] :blue[maung] :violet[bandung]
+    :gray[kang] :red[dedi] and :red-background[mulyadi] text.''')
+st.markdown("Aku jawa &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
 multi = '''If you end a line with two spaces,
