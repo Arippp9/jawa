@@ -28,7 +28,7 @@ st.caption(
     "serta pelajari fungsi komponen."
 )
 
-html_path = Path(__file__).parent / "uv1700.html"
+html_path = Path(__file__).parent / "UV-1700 PharmaSpec 3D.html"
 
 if html_path.exists():
     html_code = html_path.read_text(encoding="utf-8")
